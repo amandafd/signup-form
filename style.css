@@ -1,1 +1,14 @@
-/*Em construção*/
+body {
+    background-image: url(./images/bg-intro-desktop.png);
+    height: auto;
+    width: 100vw;
+    background-color: hsl(0, 100%, 74%);
+    background-size: cover;
+}
+#texto-lateral {
+    position: relative;
+}
+
+.conteudo-footer {
+    text-align: center;
+}
