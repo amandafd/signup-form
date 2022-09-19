@@ -38,10 +38,10 @@
 </ul>  
 
 <h3 id="screenshot">Screenshot</h3>
-<p>Observação: Um screenshot com o resultado visual final será adicionado ao final do projeto após sua conslusão</p>
+<p>Observação: Um screenshot com o resultado visual final será adicionado ao final do projeto após sua conclusão</p>
 
 <h3 id="links">Links</h3>
-<p>Observação: Um ou mais links com o resultado visual final serão adicionado ao final do projeto após sua conslusão</p>
+<p>Observação: Um ou mais links com o resultado visual final serão adicionado ao final do projeto após sua conclusão</p>
 
 
 <h2 id="meu-processo">Meu processo</h2>
@@ -56,7 +56,7 @@
 <h2 id="autora" align="left">Autora</h2>
 <img align="left" src="https://avatars.githubusercontent.com/u/104245596?s=400&u=22dddd54d435db2df3c8f6e91c881be3cdc31170&v=4" width=115>
 [Amanda Dionisio](https://github.com/amandafd)
-<h3 >align="left">Você me encontra nas redes sociais:</h3>
+<h3 align="left">Você me encontra nas redes sociais:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/amanda-felipe-dionisio"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Badge Linkedin" /></a>
   <a href="https://www.behance.net/amanda_dionisio"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Badge Behance" /></a>
