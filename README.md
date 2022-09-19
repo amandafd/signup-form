@@ -11,7 +11,6 @@
 
 <p>Resolução do desafio <a href="https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1" alt="Link para o challenge">Intro component with sign up form challenge on Frontend Mentor</a>.</p> 
 
-# Organizar:continued development, useful resources
 <ul>Conteúdos
   <li><a href="#visao-geral">Visão Geral</a> 
     <li><a href="#o-desafio">O Desafio</a></li>
@@ -63,6 +62,3 @@
   <a href="https://www.behance.net/amanda_dionisio"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Badge Behance" /></a>
   <a href="https://www.instagram.com/guache_nin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  alt="Badge Instagram" /></a>
 </p>
-
-
-
