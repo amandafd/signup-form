@@ -14,6 +14,7 @@ body {
     background-color: hsl(0, 100%, 74%);
     background-size: cover;
     font-size: 16px;
+    background-position: fixed;
 }
 
 button {
@@ -37,7 +38,7 @@ button {
     display: flex;
     flex-direction: column;
     width: 40%;
-    width: 450px;
+    width: 600px;
 }
 
 #texto-lateral {
@@ -49,33 +50,38 @@ button {
     font-size: 52px;
     line-height: 1.1;
     margin-top: 20px;
-    margin-left: 5px;
+    margin-left: 100px;
 }
 #texto-lateral p {
     width: 565px;
     line-height: 1.6;
     margin-top: 32px;
     font-size: 17px;
+    margin-left: 100px;
 }
 
 /*----------------------------------FORMULÀRIO----------------------------------*/
 #formulario {
-    height: 40px;
+    margin-right: 100px;
+    
 }
 .campo::placeholder {
     color: black;
 }
 
 /*BOTÂO PREÇO*/
+
 #preco {
     background-color: hsl(248, 32%, 49%);
     color: whitesmoke;
+    
 }
 
 /*---CONTEÙDO FORMULÀRIO---*/
 #conteudo-formulario {
     display: flex;
     flex-direction: column;
+    background-color: whitesmoke;
 }
 
 /*BOTÂO FREE TRIAL*/
