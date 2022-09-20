@@ -1,14 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: 'Poppins', sans-serif;
+}
+
 body {
     background-image: url(./images/bg-intro-desktop.png);
     height: auto;
     width: 100vw;
     background-color: hsl(0, 100%, 74%);
     background-size: cover;
-}
-#texto-lateral {
-    position: relative;
+    font-size: 16px;
 }
 
+button {
+    font-family: 'Poppins', sans-serif;
+}
+
+::placeholder {
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
+
+.child {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    width: 450px;
+}
+
+#texto-lateral {
+    color: whitesmoke;
+}
+
+#texto-lateral h1 {
+    width: 600px;
+    font-size: 52px;
+    line-height: 1.1;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+#texto-lateral p {
+    width: 565px;
+    line-height: 1.6;
+    margin-top: 32px;
+    font-size: 17px;
+}
+
+/*----------------------------------FORMULÀRIO----------------------------------*/
+#formulario {
+    height: 40px;
+}
+.campo::placeholder {
+    color: black;
+}
+
+/*BOTÂO PREÇO*/
+#preco {
+    background-color: hsl(248, 32%, 49%);
+    color: whitesmoke;
+}
+
+/*---CONTEÙDO FORMULÀRIO---*/
+#conteudo-formulario {
+    display: flex;
+    flex-direction: column;
+}
+
+/*BOTÂO FREE TRIAL*/
+#free-trial{
+    background-color: hsl(154, 59%, 51%);
+    color: whitesmoke;
+    font-weight: 400;
+}
+
+/*----------------------------------FOOTER----------------------------------*/
+
 .conteudo-footer {
+    position: fixed;
     text-align: center;
+    bottom: 0;
+    width: 100%;
+    margin: 10px;
+    color:hsl(249, 10%, 26%);
+    font-size: 14px;
+}
+
+.conteudo-footer a {
+    color: hsl(246, 25%, 77%);
 }

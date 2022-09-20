@@ -47,6 +47,9 @@
 
 <h3 id="aprendizados">Aprendizados</h3>
 <p>Observação: Os aprendizados serão relatados durante o desenvolvimento do projeto</p>
+<ul>Apesar de já ter visto em cursos diversos os conteúdos listados abaixo, esses foram os aprendizado práticos adquiridos e fixados durante o desenvolvimento do projeto:
+  <li>Como posicionar elementos com Flexbox em CSS</li>
+</ul>  
 
 <h3 id="recursos">Recursos utilizados</h3>
 <p>Observação: Os recursos utilizados ao longo do projeto serão relatados aqui conforme sua utilização</p>
