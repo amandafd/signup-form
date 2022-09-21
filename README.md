@@ -46,9 +46,15 @@
 <h2 id="meu-processo">Meu processo</h2>
 
 <h3 id="aprendizados">Aprendizados</h3>
-<p>Observação: Os aprendizados serão relatados durante o desenvolvimento do projeto</p>
-<ul>Apesar de já ter visto em cursos diversos os conteúdos listados abaixo, esses foram os aprendizado práticos adquiridos e fixados durante o desenvolvimento do projeto:
-  <li>Como posicionar elementos com Flexbox em CSS</li>
+<ul>Apesar de já ter estudado em cursos diversos os conteúdos listados abaixo, esses foram os aprendizado práticos adquiridos e fixados durante o desenvolvimento do projeto:
+  <li>Aplicação práticas de conceitos UX/UI e de design</li>
+  <li>Trabalhar com:
+    <li>Border</li>
+    <li>Shadow</li>
+    <li>Padrão de cores HSL</li>
+    <li>Flexbox para posicionar elementos CSS</li>
+    <li>Position relative e abslute</li>
+  </li>  
 </ul>  
 
 <h3 id="recursos">Recursos utilizados</h3>
