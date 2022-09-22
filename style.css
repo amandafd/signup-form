@@ -8,15 +8,11 @@ html {
 }
 
 body {
-    height: auto;
-    width: 1440px;
     background-image: url(./images/bg-intro-desktop.png);
     background-color: hsl(0, 100%, 74%);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center center;
     font-size: 16px;
-    
 }
 
 
@@ -146,14 +142,17 @@ button {
 
 .conteudo-footer {
     color:hsl(249, 3%, 59%);
-    width: 100%;
-    margin: 10px;
     position: relative;
-    bottom: 5px;
     font-size: 14px;
     text-align: center;
 }
 
 .conteudo-footer a {
     color: hsl(248, 32%, 49%);
+}
+
+@media screen and (max-width: 945px) {
+    body {
+        background-image: url(./images/bg-intro-mobile.png);
+    }
 }
