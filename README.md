@@ -16,7 +16,7 @@
     <li><a href="#screenshot">Screenshot</a></li>
     <li><a href="#links">Links</a></li>
   </li>  
-  <li><a href="#meu-processso">Meu processo</a></li>
+  <li><a href="#meu-processo">Meu processo</a></li>
     <li><a href="#aprendizados">Aprendizados</a></li>
     <li><a href="#recursos">Recursos utilizados</a></li>
   </li>  

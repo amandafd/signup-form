@@ -8,14 +8,15 @@ html {
 }
 
 body {
-    background-image: url(./images/bg-intro-desktop.png);
     height: auto;
     width: 1440px;
+    background-image: url(./images/bg-intro-desktop.png);
     background-color: hsl(0, 100%, 74%);
     background-size: cover;
-    font-size: 16px;
     background-repeat: no-repeat;
     background-position: center center;
+    font-size: 16px;
+    
 }
 
 
@@ -28,10 +29,10 @@ button {
 }
 
 .container {
-    height: 100%;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    height: 100%;
     padding-top: 300px;
     padding-bottom: 300px;
 }
@@ -52,15 +53,16 @@ button {
 
 #texto-lateral h1 {
     width: 600px;
+    margin-left: 65px;
     font-size: 52px;
     line-height: 1.1;
-    margin-left: 65px;
 }
+
 #texto-lateral p {
     width: 565px;
-    line-height: 1.6;
     margin: 32px 0 0 65px;
     font-size: 17px;
+    line-height: 1.6;
 }
 
 /*----------------------------------FORMULÀRIO----------------------------------*/
@@ -72,29 +74,29 @@ button {
 }
 
 .campo {
-    margin: 0 0 23px 0;
-    border-radius: 5px;
+    color:hsl(248, 9%, 36%);
     padding: 20px;
+    margin: 0 0 23px 0;
     border: none;
     border: 1px solid hsl(246, 25%, 77%);
-    font-weight: 700;
+    border-radius: 5px;
     font-size: 15.5px;
-    color:hsl(248, 9%, 36%);
+    font-weight: 700;
 }
 
 /*BOTÂO PREÇO*/
 #preco {
-    background-color: hsl(248, 32%, 49%);
     color: white;
+    background-color: hsl(248, 32%, 49%);
     padding: 19px;
-    border-radius: 10px;
+    margin: 0 0 25px 0;
     border: none;
     border: 1px solid hsl(246, 8%, 47%);
-    text-align: center;
-    margin: 0 0 25px 0;
+    border-radius: 10px;
     box-shadow: 0 8px hsl(0, 0%, 0%, 0.15);
-    font-weight: 500;
     font-size: 16px;
+    font-weight: 500;
+    text-align: center;
 }
 
 #preco span {
@@ -113,43 +115,43 @@ button {
 
 /*BOTÂO FREE TRIAL*/
 #free-trial{
-    background-color: hsl(154, 59%, 51%);
     color: white;
-    font-weight: 400;
+    background-color: hsl(154, 59%, 51%);
+    padding: 15px;
     border: none;
     border-radius: 10px;
-    padding: 15px;
-    font-weight: 500;
-    font-size: 16px;
     box-shadow: 0 4px hsl(154, 40%, 51%);
+    font-size: 16px;
+    font-weight: 500;
     
 }
 
 /*AGREE*/
 #agree {
-    font-size: 12px;
-    text-align: center;
-    font-weight: 700;
+    color:hsl(246, 25%, 77%);
     margin-top: 20px;
-    color:hsl(246, 25%, 77%)
+    font-size: 12px;
+    font-weight: 700;
+    text-align: center;
+    
 }
 
 #agree a {
-    text-decoration: none;
-    font-weight: 700;
     color: hsl(0, 100%, 74%);
+    font-weight: 700;
+    text-decoration: none;
 }
 
 /*----------------------------------FOOTER----------------------------------*/
 
 .conteudo-footer {
-    position: relative;
-    text-align: center;
-    bottom: 5px;
+    color:hsl(249, 3%, 59%);
     width: 100%;
     margin: 10px;
-    color:hsl(249, 3%, 59%);
+    position: relative;
+    bottom: 5px;
     font-size: 14px;
+    text-align: center;
 }
 
 .conteudo-footer a {
