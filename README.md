@@ -18,7 +18,6 @@
   </li>  
   <li><a href="#meu-processo">Meu processo</a></li>
     <li><a href="#aprendizados">Aprendizados</a></li>
-    <li><a href="#recursos">Recursos utilizados</a></li>
   </li>  
   <li><a href="#autora">Autora</li>
 </ul>
@@ -42,7 +41,6 @@
 <h3 id="links">Links</h3>
 <p>Observação: Um ou mais links com o resultado visual final serão adicionado ao final do projeto após sua conclusão</p>
 
-
 <h2 id="meu-processo">Meu processo</h2>
 
 <h3 id="aprendizados">Aprendizados</h3>
@@ -56,10 +54,6 @@
     <li>Position relative e abslute</li>
   </li>  
 </ul>  
-
-<h3 id="recursos">Recursos utilizados</h3>
-<p>Observação: Os recursos utilizados ao longo do projeto serão relatados aqui conforme sua utilização</p>
-
 
 <h2 id="autora" align="left">Autora</h2>
 <img align="left" src="https://avatars.githubusercontent.com/u/104245596?s=400&u=22dddd54d435db2df3c8f6e91c881be3cdc31170&v=4" width=115>
