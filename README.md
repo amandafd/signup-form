@@ -1,7 +1,7 @@
 <h1 align="center">Sign up form</h1>
 
 <img src="./images/screen-shot-1.jpg">
-<img src"./images/screen-shot-2.jpg">
+<img src="./images/screen-shot-2.jpg">
 <a href="https://amandafd.github.io/signup-form/">Link da página do projeto</a>
 
 <p align="center">
