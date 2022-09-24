@@ -1,8 +1,9 @@
 <h1 align="center">Sign up form</h1>
-
-<img src="./images/screen-shot-1.jpg">
-<img src="./images/screen-shot-2.jpg">
-<a href="https://amandafd.github.io/signup-form/">Link da página do projeto</a>
+<p align="center">
+  <img src="./images/screen-shot-1.jpg" align="left" width="820" height="auto">
+  <img src="./images/screen-shot-2.jpg" align="right width="auto" height="410">
+  <a href="https://amandafd.github.io/signup-form/" align="center">Link da página do projeto</a>
+</p>
 
 <p align="center">
   <a href=""><img src="https://img.shields.io/badge/%C3%BAltima%20atualiza%C3%A7%C3%A3o-setembro%202022-blue" align="center" alt="Badge atualização" /></a>
