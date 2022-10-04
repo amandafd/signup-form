@@ -1,8 +1,8 @@
 <h1 align="center">Sign up form</h1>
 
 <p align-items="center">
-  <img src="./images/screen-shot-1.jpg" align="right" width="auto" height="355" alt="Screenshot desktop">
-  <img src="./images/screen-shot-2.jpg" align="left" width="auto" height="355" alt="Screenshot mobile"><br>
+  <img src="./images/screen-shot-1.jpg" align="right" height="auto" width="820" alt="Screenshot desktop">
+  <img src="./images/screen-shot-2.jpg" align="left" height="auto" width="150" alt="Screenshot mobile"><br>
 </p>  
 </br>
 
