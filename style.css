@@ -55,7 +55,6 @@ button {
 }
 
 #form {
-    /*justify-content: space-between;*/
     width: 42rem;
     padding-right: 6rem;
 }
@@ -98,7 +97,7 @@ button {
     font-weight: 600;
 }
 
-#free-trial{
+#freeTrial{
     color: white;
     background-color: hsl(154, 59%, 51%);
     padding: 0.85rem;
@@ -248,7 +247,7 @@ button {
         font-size: 1.6rem;
     }
 
-    #free-trial {
+    #freeTrial {
         padding: 1.7rem 2rem;
         margin: 0 0 2.1rem 0;
         border-radius: 1.1rem;
