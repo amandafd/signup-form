@@ -35,36 +35,32 @@ button {
     width: 50%;
     padding-top: 2rem;
 }
-/*TEXTO LATERAL*/
 
-#texto-lateral {
+#sideText {
     color: white;
     padding-left: 10rem;
     padding-top: 3.3rem;
 }
 
-#texto-lateral h1 {
-    /*width: 28rem;*/
+#sideText h1 {
     font-size: 3.14rem;
-    /*font-weight: 700;*/
     line-height: 1.2;
 }
 
-#texto-lateral p {
+#sideText p {
     max-width: 34rem;
     padding-top: 1.7rem;
     font-size: 1.05rem;
     line-height: 1.68;
 }
 
-/*FORMULARIO*/
-#formulario {
+#form {
     /*justify-content: space-between;*/
     width: 42rem;
     padding-right: 6rem;
 }
 
-#preco { 
+#price { 
     color: white;
     background-color: hsl(248, 32%, 49%);
     padding: 1.15rem;
@@ -78,11 +74,11 @@ button {
     text-align: center;
 }
 
-#preco span {
+#price span {
     font-weight: 400;
 }
 
-#conteudo-formulario {
+#form__content {
     background-color: white;
     display: flex;
     flex-direction: column;
@@ -91,7 +87,7 @@ button {
     box-shadow: 0 0.5rem hsl(0, 0%, 0%, 0.15);
 }
 
-.campo {
+.field {
     color:hsl(248, 9%, 36%);
     padding: 1.1rem;
     margin: 0 0 1.2rem 0;
@@ -129,23 +125,21 @@ button {
     text-decoration: none;
 }
 
-/*FOOTER*/
-#rodape {
+#footer {
     align-content: center;
 }
 
-.conteudo-footer {
+.footer__content {
     color:hsl(249, 3%, 59%);
     padding: 1rem 27rem;
     font-size: 0.87rem;
     text-align: center;
 }
 
-.conteudo-footer a {
+.footer__content a {
     color: hsl(248, 32%, 49%);
 }
 
-/*MEDIA*/
 @media screen and (max-width: 1075px) {
     body {
         background-repeat: repeat-y;
@@ -162,7 +156,7 @@ button {
         margin: 2rem 0;
     }
 
-    #texto-lateral {
+    #sideText {
         width: 40rem;
         padding: 0;
         text-align: center;
@@ -170,16 +164,16 @@ button {
         
     }
 
-    #texto-lateral p {
+    #sideText p {
         max-width: 50rem;
     }
 
-    #formulario {
+    #form {
         width: 42rem;
         padding-right: 0;
     }
 
-    .conteudo-footer {
+    .footer__content {
         padding: 1rem 0;
     }
 }
@@ -189,14 +183,16 @@ button {
         background-image: url(./images/bg-intro-mobile.png);
         background-repeat: repeat-x;
     }
-    #preco {
+    
+    #price {
         border-radius: 0.6rem;
     }
+    
     .container {
         width: 40rem;
     }
 
-    .conteudo-footer {
+    .footer__content {
        width: 50rem;
     }
 }
@@ -208,20 +204,22 @@ button {
         width: 100vw;
     }
 
-    #texto-lateral {
+    #sideText {
         margin-top: 6rem;
     }
-    #texto-lateral h1 {
+    
+    #sideText h1 {
         font-size: 4rem;
         line-height: 5rem;
     }
-    #texto-lateral p {
+    
+    #sideText p {
         font-size: 2rem;
         padding-top: 2.5rem;
         line-height: 2;
     }
 
-    #preco {
+    #price {
         height: 8rem;
         align-content: center;
         padding: 2rem 6rem;
@@ -232,18 +230,18 @@ button {
         line-height: 4rem;
     }
 
-    #formulario{
+    #form {
         width: 42rem;
         padding-top: 3rem;
     }
 
-    #conteudo-formulario {
+    #form__content {
         padding: 4rem 2.6rem;
         border-radius: 1rem;
         box-shadow: 0 1rem hsl(0, 0%, 0%, 0.15);
     }
     
-    .campo {
+    .field {
         padding: 2rem 2rem;
         margin: 0 0 2.1rem 0;
         border-radius: 1.1rem;
@@ -263,7 +261,7 @@ button {
         padding: 0 1.5rem;
     }
 
-    .conteudo-footer {
+    .footer__content {
         font-size: 1.1rem;
         padding-bottom: 1rem;;
     }
